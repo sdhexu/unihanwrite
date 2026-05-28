@@ -1,0 +1,14 @@
+﻿{
+  "name": "com.sdhexu.uni-han-write",
+  "version": "1.0.0",
+  "displayName": "Handwriting Recognition",
+  "description": "Chinese Handwriting Recognition for Unity",
+  "unity": "2022.3",
+  "author": {
+    "name": "sdhexu",
+    "email": "sdhexu@gmail.com"
+  },
+  "dependencies": {
+    "com.cysharp.unitask": "2.5.11"
+  }
+}
